@@ -837,12 +837,3 @@ def contactus_view(request):
     return render(request, 'hospital/contactus.html', {'form':sub})
 
 
-#---------------------------------------------------------------------------------
-#------------------------ ADMIN RELATED VIEWS END ------------------------------
-#---------------------------------------------------------------------------------
-
-
-
-#Developed By : sumit kumar
-#facebook : fb.com/sumit.luv
-#Youtube :youtube.com/lazycoders
